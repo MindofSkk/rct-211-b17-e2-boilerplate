@@ -29,8 +29,8 @@ const Shoes = () => {
         style={{
           display: "grid",
           gridTemplateColumns: "repeat(4,1fr)",
-          width: "80%",
           gap: "10px",
+          width: "80%",          
           justifyContent: "space-around",
           margin: "auto",
           border: "1px solid black",
